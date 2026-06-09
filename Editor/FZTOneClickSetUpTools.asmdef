@@ -1,0 +1,32 @@
+{
+    "name": "FZTOneClickSetUpTools",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b906eeb43404e4805977e097bb211ee0",
+        "GUID:6474ffb2a5340404e83c4efe68aaef4e",
+        "GUID:416a347d7ae554296aa29a9262ca5d0d",
+        "GUID:fc900867c0f47cd49b6e2ae4ef907300",
+        "GUID:5ce33783346c3124990afbe7b0390a06",
+        "GUID:ac4815c6727e4e34b9e13bb042cbc029",
+        "GUID:f69eeb3e25674f4a9bd20e6d7e69e0e6"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "VRC.Dynamics.dll",
+        "VRC.Utility.dll",
+        "VRCCore-Editor.dll",
+        "VRCSDK3A.dll",
+        "VRCSDK3A-Editor.dll",
+        "VRCSDKBase.dll",
+        "VRCSDKBase-Editor.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,10 @@
+{
+    "name": "com.gfool6.fztools.one-click-setup",
+    "displayName": "FZ OneClick SetUp Tool",
+    "version": "1.0.0",
+    "unity": "2022.3",
+    "description": "gfool6's avatar custom tool.",
+    "vpmDependencies": {
+        "com.gfool6.fztools.core": ">=1.0.0"
+    }
+}
